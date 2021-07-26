@@ -26,7 +26,7 @@ To work around this problem, use one of the following methods:
 
 ## Method 1
 
-Download the VB6 Mouse Wheel.exe file that includes the add-in DLL and the code that is used to create the add-in DLL.
+Download the VB6 Mouse Wheel.exe file that includes the add-in DLL and the code that is used to create the add-in DLL. Microsoft has recently removed the file from their system and it is now at Github: https://github.com/jjbott/VB6ScrollWheelFix 
 
 1. Download the VB6 Mouse Wheel.exe file.
 2. Click **Start**, click **Run**, type `regsvr32 <path>\VB6IDEMouseWheelAddin.dll`, and then click **OK**.
